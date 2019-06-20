@@ -1,6 +1,6 @@
-# ONLINE QUIZ APPLICATION
+# QUIZ APPLICATION
 
-## Conducting Online Quiz on various fields like Sports,History,Science using Jframes and mysql. 
+## Conducting Quiz on various fields like Sports,History,Science using Jframes and mysql. 
 
 # FRONT END
 ## FLOW CHART
